@@ -1,0 +1,1 @@
+// https://patterns-dev-kr.github.io/design-patterns/proxy-pattern/
