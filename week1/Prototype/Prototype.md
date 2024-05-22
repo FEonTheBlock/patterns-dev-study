@@ -2,4 +2,4 @@
 
 > 참고: https://poiemaweb.com/js-prototype
 
-- 이름 (폴더명)
+- 혜연 (hyeyeon)
